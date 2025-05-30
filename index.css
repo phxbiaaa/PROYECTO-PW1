@@ -1,0 +1,49 @@
+body {
+    background:midnightblue;
+}
+
+#Div1 {
+    background-color:rgb(6, 1, 43);
+    position: static;
+    height: 100px;
+    width: 1900px;
+    display: flex;
+    color: whitesmoke;
+    justify-content: center;
+    align-items: center;
+    font-size:25px;
+}
+
+#text1 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+#text2 {
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: left;
+}
+
+.contenedor {
+  display: flex;
+  gap: 20px;
+}
+
+#divP {
+    background-color: rgb(6, 1, 43);
+}
+
+#pie {
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+.imgp {
+    background-color: black;
+    padding: 6px;
+    margin: 15px;
+}

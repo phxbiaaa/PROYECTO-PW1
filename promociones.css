@@ -1,0 +1,54 @@
+body{
+    background-color: bisque;
+}
+
+#head2 {
+    color: darkslategray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.contenedor3 {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.caja2 {
+    background-color: darkslategray;
+    line-height: 30px;
+    color: bisque;
+    width: 500px;
+    text-align: left;
+}
+
+.imagen { 
+    background-color: antiquewhite;
+    padding: 6px;
+    margin: 15px auto;
+    border-radius: 10px;
+    display: block;
+}
+
+.contenedor4 {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#divP2 {
+    margin-top: 20px;
+    background-color: darkslategray;
+}
+
+#pie1 {
+    color: bisque;
+    text-align: center;
+    font-size: 20px;
+}
+
+#botones {
+    text-align: center;
+}
